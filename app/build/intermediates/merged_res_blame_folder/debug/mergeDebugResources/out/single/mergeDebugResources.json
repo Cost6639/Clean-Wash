@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/xml_backup_rules.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_bg.jpg.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/bg.jpg"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/layout_activity_splash.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/layout_row_user.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/layout/row_user.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_lavender_border.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/lavender_border.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_splashscreen.png.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/splashscreen.png"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/layout_activity_editor.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/layout/activity_editor.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/layout_activity_main.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_baseline_email_24.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/baseline_email_24.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/layout_activity_signup.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_baseline_add_24.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/layout_activity_login.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable_baseline_password_24.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/drawable/baseline_password_24.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-pngs-29:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.cleanwashattempt2.app-debug-33:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.cleanwashattempt2.app-main-35:/xml/data_extraction_rules.xml"
+    }
+]

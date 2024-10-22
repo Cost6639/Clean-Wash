@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Lavender">#8692f7</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="add_new_laundry_order">Add new laundry order</string>
+    <string name="app_name">Clean Wash Attempt 2</string>
+    <string name="belum_ada_akun_daftar_di_sini">Belum ada akun? Daftar di sini</string>
+    <string name="berat">Berat :</string>
+    <string name="berat_kg">Berat (Kg)</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="daftar">Daftar</string>
+    <string name="daftar_akun_baru">Daftar Akun Baru</string>
+    <string name="default_web_client_id" translatable="false">407537656369-e823rrvgs6r6pno2gtgfajaifmmdur95.apps.googleusercontent.com</string>
+    <string name="detail_order">Detail Order</string>
+    <string name="email">Email</string>
+    <string name="gcm_defaultSenderId" translatable="false">407537656369</string>
+    <string name="google_api_key" translatable="false">AIzaSyBh_81vNKvbl-Cbiz103OPeUdV9vZmL3Qg</string>
+    <string name="google_app_id" translatable="false">1:407537656369:android:46a1bca817532e7a41eb10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBh_81vNKvbl-Cbiz103OPeUdV9vZmL3Qg</string>
+    <string name="google_storage_bucket" translatable="false">clean-wash-9eea2.appspot.com</string>
+    <string name="halaman_login">Halaman Login</string>
+    <string name="harga">Harga :</string>
+    <string name="jenis_cucian">Jenis cucian</string>
+    <string name="jenis_cucian2">Jenis Cucian :</string>
+    <string name="loading">Loading...</string>
+    <string name="masuk">Masuk</string>
+    <string name="masukkan_nama_pelanggan">Masukkan nama pelanggan</string>
+    <string name="nama">Nama : </string>
+    <string name="nama_pelanggan">Nama pelanggan</string>
+    <string name="no_hp">No HP</string>
+    <string name="nomor_hp">No HP :</string>
+    <string name="nomor_telepon">Nomor telepon</string>
+    <string name="order_detail">Order Detail</string>
+    <string name="password">Password</string>
+    <string name="project_id" translatable="false">clean-wash-9eea2</string>
+    <string name="simpan">Simpan</string>
+    <string name="status">Status</string>
+    <string name="status2">Status :</string>
+    <string name="sudah_ada_akun_masuk_di_sini">Sudah ada akun? Masuk di sini</string>
+    <string name="tambah_order">Tambah order</string>
+    <string name="tanggal_masuk">Tanggal Masuk :</string>
+    <string name="tanggal_masuk_dd_mm_yyyy">Tanggal masuk (dd-mm-yyyy)</string>
+    <string name="total_harga">Total harga</string>
+    <style name="Base.Theme.CleanWashAttempt2" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.CleanWashAttempt2" parent="Base.Theme.CleanWashAttempt2"/>
+</resources>

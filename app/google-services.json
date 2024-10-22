@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "407537656369",
+    "project_id": "clean-wash-9eea2",
+    "storage_bucket": "clean-wash-9eea2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407537656369:android:46a1bca817532e7a41eb10",
+        "android_client_info": {
+          "package_name": "com.example.cleanwashattempt2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407537656369-vcab01lvjam9492es4d3rai9phau9b59.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cleanwashattempt2",
+            "certificate_hash": "9a71dac414064d7492aaebc868c8b900c408213e"
+          }
+        },
+        {
+          "client_id": "407537656369-e823rrvgs6r6pno2gtgfajaifmmdur95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh_81vNKvbl-Cbiz103OPeUdV9vZmL3Qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407537656369-e823rrvgs6r6pno2gtgfajaifmmdur95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

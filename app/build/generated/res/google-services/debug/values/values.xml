@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">407537656369-e823rrvgs6r6pno2gtgfajaifmmdur95.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">407537656369</string>
+    <string name="google_api_key" translatable="false">AIzaSyBh_81vNKvbl-Cbiz103OPeUdV9vZmL3Qg</string>
+    <string name="google_app_id" translatable="false">1:407537656369:android:46a1bca817532e7a41eb10</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBh_81vNKvbl-Cbiz103OPeUdV9vZmL3Qg</string>
+    <string name="google_storage_bucket" translatable="false">clean-wash-9eea2.appspot.com</string>
+    <string name="project_id" translatable="false">clean-wash-9eea2</string>
+</resources>
